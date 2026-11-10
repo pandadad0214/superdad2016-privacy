@@ -1,0 +1,9 @@
+# Superdad2016 privacy policy
+
+> Privacy policy for a personal-use application that manages the Superdad2016 seller account's own listings, inventory and orders.
+
+- Policy page: https://pandadad0214.github.io/superdad2016-privacy/
+- Last updated: 2026-11-03
+- No third-party tracking, analytics or advertising on this page.
+
+Read-only WebMCP tools on this page: get_privacy_policy, get_links.

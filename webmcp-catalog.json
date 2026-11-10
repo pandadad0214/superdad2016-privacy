@@ -1,0 +1,19 @@
+{
+  "version": "2026-11-10",
+  "generated_at": "2026-11-10T10:23:00-07:00",
+  "site": {
+    "name": "Superdad2016 privacy policy",
+    "description": "Privacy policy for the personal-use Superdad2016 application.",
+    "url": "https://pandadad0214.github.io/superdad2016-privacy/",
+    "links": {
+      "github": "https://github.com/pandadad0214/superdad2016-privacy",
+      "official_site": "https://pandafederation.com/"
+    }
+  },
+  "policy": {
+    "title": "Privacy Policy",
+    "last_updated": "2026-11-03",
+    "summary": "This application is for personal use only by the Superdad2016 seller account. It accesses that account solely to manage its own listings, inventory and orders. No buyer data or other users' account data is stored or shared. This page uses no third-party tracking, analytics or advertising.",
+    "url": "https://pandadad0214.github.io/superdad2016-privacy/"
+  }
+}

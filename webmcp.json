@@ -1,0 +1,17 @@
+{
+  "version": "1",
+  "name": "Superdad2016 privacy policy",
+  "description": "Privacy policy for the personal-use Superdad2016 application.",
+  "url": "https://pandadad0214.github.io/superdad2016-privacy/",
+  "spec": "https://webmachinelearning.github.io/webmcp/",
+  "catalog": "https://pandadad0214.github.io/superdad2016-privacy/webmcp-catalog.json",
+  "llms_txt": "https://pandadad0214.github.io/superdad2016-privacy/llms.txt",
+  "tools": [
+    "get_privacy_policy",
+    "get_links"
+  ],
+  "registration": "document.modelContext.registerTool",
+  "annotations": {
+    "readOnlyHint": true
+  }
+}
