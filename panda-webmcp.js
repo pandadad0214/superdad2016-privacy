@@ -164,7 +164,7 @@
       product_hunt: links.product_hunt || "https://www.producthunt.com/products/panda-federation-tools",
       official_site: links.official_site || "https://pandafederation.com/",
       tools_docs: links.tools_docs || "https://pandadad0214.github.io/panda-federation-tools/",
-      x: links.x || "https://x.com/Pandadad0214",
+      x: links.x || "https://x.com/PandaFedHQ",
       llms_txt: links.llms_txt || null,
       catalog: links.catalog || null,
       more: links.more || {}

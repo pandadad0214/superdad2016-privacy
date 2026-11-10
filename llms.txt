@@ -7,3 +7,4 @@
 - No third-party tracking, analytics or advertising on this page.
 
 Read-only WebMCP tools on this page: get_privacy_policy, get_links.
+- X: https://x.com/PandaFedHQ  (Follow on X: @PandaFedHQ)
